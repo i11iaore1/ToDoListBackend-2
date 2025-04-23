@@ -3,4 +3,4 @@
 Тема: «Організація спільної роботи користувачів Web-додатка»<br>
 Завдання: Розробити функції обміну даними між користувачами Web-додатка, а також адміністрування користувачами у реальному часі.<br>
 
-[URL-посилання на документ звіту на Google Drive]()
+[URL-посилання на документ звіту на Google Drive](https://docs.google.com/document/d/1gT70QVvmuwGKKwcPh6wsppwtnF21uzXNAfjZMsMIOOk/edit?usp=sharing)
